@@ -1,0 +1,18 @@
+{
+  "repo": "AI-Cost-Efficiency-Architecture",
+  "tier": "T2 - Research Layer",
+  "visibility": "Private Development Mode",
+  "current_draft": "AI-Cost-Efficiency-Architecture_draft_README.md",
+  "next_action": {
+    "due_cycle": "March 2026 - Audit Reveal",
+    "task": "Review draft README for optics alignment with SIP and CEP before potential public update",
+    "notes": "Do not replace current README until forks > 5 or Tier 1 follower threshold reached. Maintain private /private_drafts/ version for refinement."
+  },
+  "links": {
+    "SIP_repo": "Signal-Integrity-Protocol-SIPPublic",
+    "CEP_repo": "Containment-Equilibrium-Protocol",
+    "core_framework": "CCRP-Core-Framework-v1.0.0"
+  },
+  "last_update": "2025-10-21",
+  "status": "Stable, awaiting optics trigger."
+}
